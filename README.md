@@ -16,7 +16,7 @@
   </tr>
   <tr>
     <td align="center" width="150px">
-      <a href="https://github.com/kmss6905"><strong>🔥: mcode</strong></a>
+      <a href="https://github.com/kmss6905"><strong>🔥: msik</strong></a>
     </td>
   </tr>
 </table>
