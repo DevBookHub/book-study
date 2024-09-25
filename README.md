@@ -11,14 +11,21 @@
 <table>
   <tr height="160px">
     <th align="center" width="150px">
-      <a href="https://github.com/kmss6905"><img height="120px" width="120px" src="https://github.com/user-attachments/assets/aafbf685-3cb0-4639-aea0-c3f22d8f7a33?s=460&u=44732fef53503e63d47192ce5c2de747eff5f0c6&v=4"/>
+      <a href="https://github.com/kmss6905"><img height="120px" width="120px" src="https://github.com/kmss6905.png"/>
+      </th>
+      <th align="center" width="150px">
+      <a href="https://github.com/kmss6905"><img height="120px" width="120px" src="https://github.com/nylah0505.png"/>
       </th>
   </tr>
   <tr>
     <td align="center" width="150px">
-      <a href="https://github.com/kmss6905"><strong>🔥: msik</strong></a>
+      <a href="https://github.com/kmss6905"><strong>msik</strong></a>
+    </td>
+    <td align="center" width="150px">
+      <a href="https://github.com/nylah0505.png"><strong>nylah0505</strong></a>
     </td>
   </tr>
+  
 </table>
 
 <details>
@@ -31,7 +38,13 @@
 ---
 
 ## 📌 진행 방식
-
+- 스터디는 **매주 수요일 오후 10시**에 진행한다.
+- 스터디 날에는 Issue 에 있는 부분을 보면서 각자의 의견을 공유한다. 혹은 추가로 공유하고 싶은 내용이 있다면 회의시간에 공유한다.
+  - 의견에는 정답이 없기 때문에 자유롭게 이야기한다.
+  - ISSUE comment 남길 시 주의사항
+    - ❌ : 공감하지 않거나 다르게 생각하는 경우
+    - ✅ : 공감하는 경우
+    - 💬 : 또 다른 의견 제시나 생각을 작성하는 경우
 
 ---
 
