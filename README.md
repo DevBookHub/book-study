@@ -22,7 +22,7 @@
       <a href="https://github.com/kmss6905"><strong>msik</strong></a>
     </td>
     <td align="center" width="150px">
-      <a href="https://github.com/nylah0505.png"><strong>nylah0505</strong></a>
+      <a href="https://github.com/nylah0505"><strong>nylah0505</strong></a>
     </td>
   </tr>
   
